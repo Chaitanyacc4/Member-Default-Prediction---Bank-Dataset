@@ -1,0 +1,8 @@
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+pandas_profiling
+csv
+pickle
